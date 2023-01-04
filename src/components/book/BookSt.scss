@@ -1,12 +1,27 @@
-.book__body{
+.book {
     display: flex;
     align-items: center;
     justify-content: space-between;
-
 }
 
-.book__column{
-    &:first-child{
+.book__column {
+    &:first-child {
         display: flex;
+    }
+}
+
+.book__price {
+    font-weight: bold;
+}
+
+.book__order {
+    display: flex;
+
+    button {
+        cursor: pointer;
+        border-radius: 5px;
+        height: 19px;
+        border: none;
+        background: rgb(175, 190, 237);
     }
 }

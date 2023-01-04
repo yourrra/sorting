@@ -1,44 +1,80 @@
 [
     {
-      "id": 1,
-      "name": "Animals",
-      "price": 245,
-      "category": "animals"
+        "id": 1,
+        "name": "Animals",
+        "price": 590,
+        "category": "animals"
     },
     {
-      "id": 2,
-      "name": "Paris and clothes",
-      "price": 345,
-      "category": "tourizm"
+        "id": 2,
+        "name": "Paris and clothes",
+        "price": 1099,
+        "category": "tourism"
     },
     {
-      "id": 3,
-      "name": "Chanel",
-      "price": 180,
-      "category": "parfum"
+        "id": 3,
+        "name": "Chanel",
+        "price": 990,
+        "category": "parfum"
     },
     {
-      "id": 4,
-      "name": "Creed",
-      "price": 125,
-      "category": "music"
+        "id": 4,
+        "name": "Creed",
+        "price": 460,
+        "category": "music"
     },
     {
-      "id": 5,
-      "name": "Food",
-      "price": 145,
-      "category": "food"
+        "id": 5,
+        "name": "Food",
+        "price": 299,
+        "category": "food"
     },
     {
-      "id": 6,
-      "name": "Italy and tourizm",
-      "price": 156,
-      "category": "tourizm"
+        "id": 6,
+        "name": "Italy and tourism",
+        "price": 649,
+        "category": "tourism"
     },
     {
-      "id": 7,
-      "name": "Jazz club",
-      "price": 197,
-      "category": "music"
+        "id": 7,
+        "name": "Jazz club",
+        "price": 249,
+        "category": "music"
+    },
+    {
+        "id": 8,
+        "name": "London",
+        "price": 1189,
+        "category": "tourism"
+    },
+    {
+        "id": 9,
+        "name": "Grand breakfast",
+        "price": 799,
+        "category": "food"
+    },
+    {
+        "id": 10,
+        "name": "Learn JS",
+        "price": 999,
+        "category": "it"
+    },
+    {
+        "id": 11,
+        "name": "Heros of Box",
+        "price": 1499,
+        "category": "sport"
+    },
+    {
+        "id": 12,
+        "name": "War and Pice",
+        "price": 2499,
+        "category": "classic"
+    },
+    {
+        "id": 13,
+        "name": "Black hole",
+        "price": 799,
+        "category": "since"
     }
-  ]
+]
